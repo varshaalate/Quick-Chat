@@ -21,11 +21,12 @@ export const AuthProvider = ({ children }) => {
         try{
             const {data} = await axios.get("/api/auth/check");
             if(data.success){
+
                 setAuthUser(data.user);
             }
         }
         catch(error){
-
+                console.log(error)
         }
     }
 
