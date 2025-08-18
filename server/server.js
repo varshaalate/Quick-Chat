@@ -1,2 +1,0 @@
-//Server,js 
-// for backend
