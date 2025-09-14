@@ -1,0 +1,13 @@
+create react vite application
+1. npm create vite@latest 
+why vite 
+Vite's easy-to-use setup lets you focus on building your React components rather than configuring build tools. Efficiency: Vite ensures that your React app is not only quick to develop but also optimized for production with minimal effort.
+
+
+2. cd folder
+
+3. npm install
+
+4. npm install react-router-dom
+
+5.npm run dev
