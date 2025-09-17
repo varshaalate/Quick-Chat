@@ -1,5 +1,7 @@
 # Quick-Chat
 MERN-Based Real-Time Chat Experience
 
+//Completed UI
 
-- Created and added the UI for the Client Chat application
+16-09-2025
+- Started working on Backend
