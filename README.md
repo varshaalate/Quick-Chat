@@ -15,4 +15,8 @@ MERN-Based Real-Time Chat Experience
       
   18-09-2025
       - Started to work on api writing
+
+
+  19-09-2025
+      - Api's for login and registration
       
