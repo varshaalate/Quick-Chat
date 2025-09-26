@@ -23,4 +23,8 @@ MERN-Based Real-Time Chat Experience
 
   24-09-2025
     - Completed writing Controller for User and stated to work on routes(API End Points) and also learning about cloudinary
+
+
+ 26-09-2025
+ -Started To work on messages (Creating Modals , Api's........)
       
