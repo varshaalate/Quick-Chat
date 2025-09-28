@@ -35,4 +35,4 @@ export const geyUsersForSideBar = async (req, res) => {
 
 
 
-//Get All messeges for  selected  user
+//Get All messeges for  selected  user controller
