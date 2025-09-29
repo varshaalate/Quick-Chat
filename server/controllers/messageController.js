@@ -36,3 +36,25 @@ export const geyUsersForSideBar = async (req, res) => {
 
 
 //Get All messeges for  selected  user controller
+export const getMessages = async (req,res) =>{
+  try{
+    const {id : selectedUserId} = req.params;
+    const myId = req.User._id; 
+
+    const messages = await Message.find({
+      $or : [
+        {senderId : myId , receiverId : selectedUserId},
+        {senderId : selectedUserId , receiverId : myId}
+      ]
+    })
+
+    //mark mesageg as read
+    await Message.updateMany({senderId : selectedUserId , receiverId :myId}, {seen :true})
+
+    res.json({success : true ,messages})
+  }
+  catch(error){
+    console.log(error.message);
+    res.json({ success: false, message: error.message });
+  }
+}

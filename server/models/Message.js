@@ -1,5 +1,7 @@
 import mongoose from "mongoose";
 
+
+//schema for Meaasge modal
 const messageSchema = new mongoose.Schema({
     email :{type :String,required:true , unique : true},
      senderId :{type :mongoose.Schema.Types.ObjectId , ref :"User" ,required :true},
