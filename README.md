@@ -29,5 +29,5 @@ MERN-Based Real-Time Chat Experience
  -Started To work on messages (Creating Modals , Api's........)
 
  29-09-2025
- - Writing API's for meassage modal
+ - Writing API's for meassage modal in controller
       
