@@ -8,9 +8,9 @@ import messageRouter from './routs/messageRoutes.js';
 import { Server } from "socket.io";
 
 //create express app and http server
-
 const app = express();
 const server = http.createServer(app);
+
 
 // Intialise socket.io server
 export const io = new Server(server , {cors :{origin : "*"}});
@@ -40,6 +40,8 @@ io.on("connection" , (socket) =>{
 
 //Store Online Users
 export const userSocketMap = {};  // userId : socketid
+
+
 
 //Middleware setup
 app.use(express.json({limit:"4mb"}))
