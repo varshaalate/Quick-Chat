@@ -30,4 +30,6 @@ MERN-Based Real-Time Chat Experience
 
  29-09-2025
  - Writing API's for meassage modal in controller
-      
+
+
+-Added API's End point
