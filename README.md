@@ -30,4 +30,35 @@ MERN-Based Real-Time Chat Experience
 
  29-09-2025
  - Writing API's for meassage modal in controller
+
+
+
+ 1. React-hot-toast 
+        The react-hot-toast library is a popular and lightweight package used in React apps to show toast notifications — small, temporary messages that appear on the screen (usually top-right) to inform users about something (like success, error, or loading states).
+
+        Use it for:
+
+    Showing success or error messages
+    Showing loading states (toast.promise)
+    Giving users quick feedback
+
+    
+2. axios
+
+👉 For HTTP requests (fetching/sending data to APIs)
+
+Use it for:
+Making API calls (GET, POST, PUT, DELETE)
+Handling authentication tokens
+Interacting with backend endpoints
+
+
+socket.io-client
+
+👉 For real-time communication between frontend and backend
+
+Use it for:
+Chat applications 💬
+Live notifications 🔔
+Real-time dashboards 📊
       
