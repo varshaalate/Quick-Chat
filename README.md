@@ -54,6 +54,6 @@ Interacting with backend endpoints
 👉 For real-time communication between frontend and backend
 
 Use it for:
-Chat applications 💬
-Live notifications 🔔
-Real-time dashboards 📊
+Chat applications 
+Live notifications 
+Real-time dashboards 
