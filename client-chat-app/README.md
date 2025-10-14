@@ -1,17 +1,35 @@
-<<<<<<< HEAD
-# Quick-Chat
 MERN-Based Real-Time Chat Experience
-=======
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+16-09-2025 - Started working on Backend
 
-Currently, two official plugins are available:
+17-09-2025 - creted server and connection with MongoDB
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+18-09-2025 - Started to work on api writing
 
-## Expanding the ESLint configuration
+19-09-2025 - Api's for login and registration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 53e4c69 (Simple chatbot with MERN)
+24-09-2025 - Completed writing Controller for User and stated to work on routes(API End Points) and also learning about cloudinary
+
+26-09-2025 -Started To work on messages (Creating Modals , Api's........)
+
+29-09-2025
+
+Writing API's for meassage modal in controller
+react-hot-toast
+👉 For toast notifications (alerts/messages)
+
+Use it for: Showing success or error messages Showing loading states (toast.promise) Giving users quick feedback
+
+axios
+👉 For HTTP requests (fetching/sending data to APIs)
+
+Use it for: Making API calls (GET, POST, PUT, DELETE) Handling authentication tokens Interacting with backend endpoints
+
+socket.io-client
+👉 For real-time communication between frontend and backend
+
+Use it for: Chat applications Live notifications Real-time dashboards
+
+About
+MERN-Based Real-Time Chat Experience
+
