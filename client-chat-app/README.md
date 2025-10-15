@@ -15,6 +15,8 @@ MERN-Based Real-Time Chat Experience
 29-09-2025
 
 Writing API's for meassage modal in controller
+
+
 react-hot-toast
 👉 For toast notifications (alerts/messages)
 
@@ -30,6 +32,5 @@ socket.io-client
 
 Use it for: Chat applications Live notifications Real-time dashboards
 
-About
-MERN-Based Real-Time Chat Experience
+
 
