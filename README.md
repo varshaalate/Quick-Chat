@@ -1,10 +1,9 @@
 # Quick-Chat
-MERN-Based Real-Time Chat Experience
-
+MERN-Based Real-Time Chat Experience 
 
 
   16-09-2025
-      - Started working on Backend
+      - Started working on Backend 
 
 
       
@@ -19,7 +18,7 @@ MERN-Based Real-Time Chat Experience
 
 
   19-09-2025
-      - Api's for login and registration
+      - Api's for login and registration form
 
 
   24-09-2025
