@@ -30,6 +30,8 @@ MERN-Based Real-Time Chat Experience
 
  29-09-2025
  - Writing API's for meassage modal in controller
+
+
       
 1. react-hot-toast
 
@@ -40,6 +42,8 @@ Showing success or error messages
 Showing loading states (toast.promise)
 Giving users quick feedback
 
+
+
 2. axios
 
 👉 For HTTP requests (fetching/sending data to APIs)
@@ -48,6 +52,8 @@ Use it for:
 Making API calls (GET, POST, PUT, DELETE)
 Handling authentication tokens
 Interacting with backend endpoints
+
+
 
 3. socket.io-client
 
