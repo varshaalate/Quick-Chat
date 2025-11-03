@@ -1,4 +1,4 @@
-# Quick-Chat
+# Quick-Chat Application
 MERN-Based Real-Time Chat Experience 
 
 
